@@ -11,13 +11,13 @@
 
 
 ### Who am I?
-I love making people lives easier through IT.
-Also, I'm passionated to both backend and frontend development.
+I a person that loves making people's lives easier through IT.
+Also, I'm passionate about both backend and frontend development.
 <br>
 Some facts about me:
-- 🌱 I'm currently learning data science, deep learning, web development and software development
+- 🌱 I'm currently learning data science, deep learning, web development, and software development
 - ♿ I have experience with digital accessibility. Something many people forget about.
-- 🎮 Off topic: I love old school games. I often play games that made a mark in the game industry.
+- 🎮 Off-topic: I love old-school games. I often play games that made a mark in the game industry.
 
 
 ### Languages and tools

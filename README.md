@@ -1,16 +1,28 @@
-### Hi there, I'm Nickolas!
+## Hi there, I'm Nickolas!
+<hr>
 
-<a href="https://www.linkedin.com/in/nickolas-da-rocha-machado-1566b3198/">
-  <img align="left" alt="Nickolas LinkedIn" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+### Social media
+<span><a href="https://www.facebook.com/nickolas.rocha.5//">
+  <img alt="Nickolas' Facebook" width="20px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a></span>
+<span><a href="https://www.linkedin.com/in/nickolas-da-rocha-machado-1566b3198/">
+  <img alt="Nickolas' LinkedIn" width="20px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+</a></span>
 
+
+### Who am I?
 I love making people lives easier through IT.
-I'm passionated to both backend and frontend development.
+Also, I'm passionated to both backend and frontend development.
+<br>
 Some facts about me:
 - 🌱 I'm currently learning data science, deep learning, web development and software development
-- 
+- ♿ I have experience with digital accessibility. Something many people forget about.
+- 🎮 Off topic: I love old school games. I often play games that made a mark in the game industry.
 
-**Languages and tools**
+
+### Languages and tools
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -19,15 +31,18 @@ Some facts about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
-**My stats**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolas&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolasrm&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasrm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasrm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### My stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nickolasrm)](https://github.com/anuraghazra/github-readme-stats)
 
-**My best projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/ATISLabs/TinyML.jl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/nickolasrm/gpu-vs-cpu-matrix-multiplication)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolasrm&show_icons=true&theme=algolia&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasrm&theme=algolia&count_private=true&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### My best projects
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ATISLabs&repo=TinyML.jl)](https://github.com/ATISLabs/TinyML.jl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=gpu-vs-cpu-matrix-multiplication)](https://github.com/nickolasrm/gpu-vs-cpu-matrix-multiplication)

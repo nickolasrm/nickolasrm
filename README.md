@@ -11,7 +11,7 @@
 
 
 ### Who am I?
-I a person that loves making people's lives easier through IT.
+I'm a person who loves making people's lives easier through IT.
 Also, I'm passionate about both backend and frontend development.
 <br>
 Some facts about me:

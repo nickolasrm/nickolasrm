@@ -46,3 +46,4 @@ Some facts about me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ATISLabs&repo=TinyML.jl)](https://github.com/ATISLabs/TinyML.jl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=gpu-vs-cpu-matrix-multiplication)](https://github.com/nickolasrm/gpu-vs-cpu-matrix-multiplication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=gpu-vs-cpu-matrix-multiplication)](https://github.com/nickolasrm/resume-builder)

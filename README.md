@@ -50,6 +50,6 @@ Some facts about me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm-UFRRJ&repo=BRTAutomaton.jl)](https://github.com/nickolasrm-UFRRJ/BRTAutomaton.jl)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=gpu-vs-cpu-matrix-multiplication)](https://github.com/nickolasrm/gpu-vs-cpu-matrix-multiplication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=gpu-vs-cpu-matrix-multiplication)](https://github.com/nickolasrm/GPUvsCPUMatrixMultiplication)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=resume-builder)](https://github.com/nickolasrm/resume-builder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=resume-builder)](https://github.com/nickolasrm/ResumeBuilder)

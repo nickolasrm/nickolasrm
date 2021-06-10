@@ -26,10 +26,12 @@ Some facts about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg"></code>
 
 
 ### My stats
@@ -37,8 +39,6 @@ Some facts about me:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolasrm&show_icons=true&theme=algolia&count_private=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasrm&theme=algolia&count_private=true&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### My best projects
@@ -53,3 +53,14 @@ Some facts about me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=ResumeBuilder)](https://github.com/nickolasrm/ResumeBuilder)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=GPUvsCPUMatrixMultiplication)](https://github.com/nickolasrm/GPUvsCPUMatrixMultiplication)
+
+
+### Check other projects in the organizations I belong to
+
+[My personal repositories](https://github.com/nickolasrm?tab=repositories)
+
+[Projects I made for university](https://github.com/nickolasrm-UFRRJ)
+
+[The HPC and ML research group](https://github.com/ATISLabs)
+
+[My YouTube channel projects](https://github.com/Nickoff-Devspace)

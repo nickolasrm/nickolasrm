@@ -54,6 +54,8 @@ Some facts about me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=GPUvsCPUMatrixMultiplication)](https://github.com/nickolasrm/GPUvsCPUMatrixMultiplication)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=BitsMNIST.jl)](https://github.com/nickolasrm/BitsMNIST.jl)
+
 
 ### Check out other projects at the organizations I belong to
 

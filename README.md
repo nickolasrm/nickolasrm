@@ -63,10 +63,10 @@ Some facts about me:
 
 [Projects I made for university](https://github.com/nickolasrm-UFRRJ)
 
-[The HPC and ML research group](https://github.com/ATISLabs)
+[ATISLabs, an HPC and ML research group](https://github.com/ATISLabs)
 
 [My YouTube channel projects](https://github.com/Nickoff-Devspace)
 
 [Place I use to start learning a new technology](https://github.com/nickolasrm-Learn)
 
-[CITEI, an accessibility focused laboratory](https://github.com/CITEI)
+[CITEI, a digital accessibility research group](https://github.com/CITEI)

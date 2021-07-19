@@ -66,3 +66,7 @@ Some facts about me:
 [The HPC and ML research group](https://github.com/ATISLabs)
 
 [My YouTube channel projects](https://github.com/Nickoff-Devspace)
+
+[Place I use to start learning a new technology](https://github.com/nickolasrm-Learn)
+
+[CITEI, an accessibility focused laboratory](https://github.com/CITEI)

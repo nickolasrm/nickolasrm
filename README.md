@@ -59,14 +59,14 @@ Some facts about me:
 
 ### Check out other projects at the organizations I belong to
 
-[My personal repositories](https://github.com/nickolasrm?tab=repositories)
+- [My personal repositories](https://github.com/nickolasrm?tab=repositories)
 
-[Projects I made for university](https://github.com/nickolasrm-UFRRJ)
+- [Projects I made for university](https://github.com/nickolasrm-UFRRJ)
 
-[ATISLabs, an HPC and ML research group](https://github.com/ATISLabs)
+- [ATISLabs, an HPC and ML research group](https://github.com/ATISLabs)
 
-[My YouTube channel projects](https://github.com/Nickoff-Devspace)
+- [My YouTube channel projects](https://github.com/Nickoff-Devspace)
 
-[Place I use to learn new technologies](https://github.com/nickolasrm-Learn)
+- [Place I use to learn new technologies](https://github.com/nickolasrm-Learn)
 
-[CITEI, a digital accessibility research group](https://github.com/CITEI)
+- [CITEI, a digital accessibility research group](https://github.com/CITEI)

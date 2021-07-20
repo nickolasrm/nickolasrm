@@ -67,6 +67,6 @@ Some facts about me:
 
 [My YouTube channel projects](https://github.com/Nickoff-Devspace)
 
-[Place I use to start learning a new technology](https://github.com/nickolasrm-Learn)
+[Place I use to learn new technologies](https://github.com/nickolasrm-Learn)
 
 [CITEI, a digital accessibility research group](https://github.com/CITEI)

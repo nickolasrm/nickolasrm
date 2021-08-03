@@ -48,6 +48,8 @@ Some facts about me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=BitsMNIST.jl)](https://github.com/nickolasrm/BitsMNIST.jl)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=TimelineBubbles)](https://github.com/nickolasrm/TimelineBubbles)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=PointerArithmetic.jl)](https://github.com/nickolasrm/PointerArithmetic.jl)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm-UFRRJ&repo=BRTAutomaton.jl)](https://github.com/nickolasrm-UFRRJ/BRTAutomaton.jl)

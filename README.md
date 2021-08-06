@@ -43,10 +43,9 @@ Some facts about me:
 
 ### My best projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=BitsMNIST.jl)](https://github.com/nickolasrm/BitsMNIST.jl)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ATISLabs&repo=TinyML.jl)](https://github.com/ATISLabs/TinyML.jl)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=BitsMNIST.jl)](https://github.com/nickolasrm/BitsMNIST.jl)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=TimelineBubbles)](https://github.com/nickolasrm/TimelineBubbles)
 

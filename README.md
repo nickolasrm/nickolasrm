@@ -3,14 +3,14 @@
 
 ### Social media
 
-<a href="https://www.facebook.com/nickolas.rocha.5//">
-  <img alt="Nickolas' Facebook" width="30px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>&nbsp
-<a href="https://www.linkedin.com/in/nickolas-da-rocha-machado-1566b3198/">
+<a href="https://www.linkedin.com/in/nickolasrm/">
   <img alt="Nickolas' LinkedIn" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>&nbsp
 <a href="https://www.instagram.com/rocha_nickolas/">
   <img alt="Nickolas' Instagram" width="30px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png" />
+</a>&nbsp
+<a href="https://www.facebook.com/nickolas.rocha.5/">
+  <img alt="Nickolas' Facebook" width="30px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
 ### Who am I?

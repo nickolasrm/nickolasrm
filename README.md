@@ -116,7 +116,7 @@ Some facts about me:
       </a>
     </td>
     <td>
-      <a href="https://github.com/nickolasrm">
+      <a href="https://github.com/nickolasrm?tab=repositories">
         <img src="https://avatars.githubusercontent.com/u/26887281?s=200&v=4" alt="nickolas picture" /><br>
         <p>
           <b>nickolasrm</b><br>

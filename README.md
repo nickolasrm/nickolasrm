@@ -2,13 +2,16 @@
 <hr>
 
 ### Social media
-<span><a href="https://www.facebook.com/nickolas.rocha.5//">
-  <img alt="Nickolas' Facebook" width="20px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a></span>
-<span><a href="https://www.linkedin.com/in/nickolas-da-rocha-machado-1566b3198/">
-  <img alt="Nickolas' LinkedIn" width="20px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
-</a></span>
 
+<a href="https://www.facebook.com/nickolas.rocha.5//">
+  <img alt="Nickolas' Facebook" width="30px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>&nbsp
+<a href="https://www.linkedin.com/in/nickolas-da-rocha-machado-1566b3198/">
+  <img alt="Nickolas' LinkedIn" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+</a>&nbsp
+<a href="https://www.instagram.com/rocha_nickolas/">
+  <img alt="Nickolas' Instagram" width="30px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png" />
+</a>
 
 ### Who am I?
 I'm a person who loves making people's lives easier through IT.
@@ -26,7 +29,8 @@ Some facts about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -58,16 +62,67 @@ Some facts about me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickolasrm&repo=GPUvsCPUMatrixMultiplication)](https://github.com/nickolasrm/GPUvsCPUMatrixMultiplication)
 
 
-### Check out other projects at the organizations I belong to
+### Organizations I belong to
 
-- [My personal repositories](https://github.com/nickolasrm?tab=repositories)
-
-- [Projects I made for university](https://github.com/nickolasrm-UFRRJ)
-
-- [ATISLabs, an HPC and ML research group](https://github.com/ATISLabs)
-
-- [My YouTube channel projects](https://github.com/Nickoff-Devspace)
-
-- [Place I use to learn new technologies](https://github.com/nickolasrm-Learn)
-
-- [CITEI, a digital accessibility research group](https://github.com/CITEI)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ATISLabs">
+        <img src="https://avatars.githubusercontent.com/u/63740618?s=200&v=4" alt="Atislabs logo" /><br>
+        <p>
+          <b>ATISLabs</b><br>
+          <i>An HPC and ML research group</i>
+        </p>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Nickoff-Devspace" alt="Nickoff logo">
+        <img src="https://avatars.githubusercontent.com/u/84944064?s=200&v=4" /><br>
+        <p>
+          <b>Nickoff-Devspace</b><br>
+          <i>My YouTube channel projects</i>
+        </p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/nickolasrm-Learn">
+        <img src="https://avatars.githubusercontent.com/u/87676560?s=200&v=4" alt="nickolasrm learn logo" /><br>
+        <p>
+          <b>nickolasrm-Learn</b><br>
+          <i>Place I use to learn new technologies</i>
+        </p>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nickolasrm-UFRRJ">
+        <img src="https://avatars.githubusercontent.com/u/79663830?s=200&v=4" alt="nickolasrm UFRRJ logo" /><br>
+        <p>
+          <b>My UFRRJ Projects</b><br>
+          <i>Projects I made for university</i>
+        </p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/CITEI">
+        <img src="https://avatars.githubusercontent.com/u/87669227?s=200&v=4" alt="CITEI logo" /><br>
+        <p>
+          <b>CITEI</b><br>
+          <i>A digital accessibility research group</i>
+        </p>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nickolasrm">
+        <img src="https://avatars.githubusercontent.com/u/26887281?s=200&v=4" alt="nickolas picture" /><br>
+        <p>
+          <b>nickolasrm</b><br>
+          <i>My personal projects</i>
+        </p>
+      </a>
+    </td>
+  </tr>
+</table>

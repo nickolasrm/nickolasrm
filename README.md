@@ -1,5 +1,4 @@
 ## Hi there, I'm Nickolas!
-<hr>
 
 ### Social media
 

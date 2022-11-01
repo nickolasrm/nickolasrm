@@ -27,6 +27,11 @@ flowchart LR;
   PaaS/IaaS --> Azure;
   PaaS/IaaS --> AWS;
   PaaS/IaaS --> GCP;
+  DevOps --> Monitoring;
+  Monitoring --> AzureMonitor;
+  Monitoring --> Datadog;
+  DevOps --> Visualization;
+  Visualization --> Grafana;
   MLOps --> DataScience;
   DataScience --> Python;
   DataScience --> Statistics;
@@ -63,6 +68,8 @@ flowchart LR;
   Storage --> NoSQL;
   Storage --> Redis;
   Storage --> FeatureStore;
+  MLOps --> ModelVisualization;
+  ModelVisualization --> Streamlit;
 ```
 
 ## References
